@@ -7,5 +7,9 @@
         "default_popup": "popup/popup.html",
         "default_title": "Hello",
         "default_icon": "images/carbon.png"
-    }
+    },
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "permissions": ["storage"]
 }
