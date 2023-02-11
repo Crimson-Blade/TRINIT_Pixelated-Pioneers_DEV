@@ -4,8 +4,8 @@
     "description": "Show total carbon emissions per website visited",
     "version": "1.0",
     "action": {
-        "default_popup": "popup.html",
+        "default_popup": "popup/popup.html",
         "default_title": "Hello",
-        "default_image": "carbon.png"
+        "default_icon": "images/carbon.png"
     }
 }
