@@ -11,5 +11,6 @@
     "background": {
         "service_worker": "scripts/background.js"
     },
-    "permissions": ["storage"]
+    "permissions": ["storage"],
+    "devtools_page": "devtools.html"
 }
